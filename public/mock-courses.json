@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "React for Beginners",
+    "instructor": "Jane Doe",
+    "description": "Learn the basics of React, including components, state, and props.",
+    "tags": ["React", "Frontend", "JavaScript"],
+    "category": "Web Development",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  },
+  {
+    "id": 2,
+    "title": "Advanced CSS Techniques",
+    "instructor": "John Smith",
+    "description": "Master advanced CSS concepts like Flexbox, Grid, and animations.",
+    "tags": ["CSS", "Frontend", "Design"],
+    "category": "Web Design",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Essentials",
+    "instructor": "Emily Clark",
+    "description": "A comprehensive guide to modern JavaScript features and syntax.",
+    "tags": ["JavaScript", "Programming"],
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  },
+  {
+    "id": 4,
+    "title": "Python for Data Science",
+    "instructor": "Alex Turner",
+    "description": "Explore Python libraries and tools for data analysis and visualization.",
+    "tags": ["Python", "Data Science", "Pandas"],
+    "category": "Data Science",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  },
+  {
+    "id": 5,
+    "title": "Machine Learning Basics",
+    "instructor": "Sara Lee",
+    "description": "Introduction to machine learning concepts and algorithms.",
+    "tags": ["Machine Learning", "AI", "Python"],
+    "category": "Artificial Intelligence",
+    "image": "https://images.unsplash.com/photo-1503676382389-4809596d5290?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  },
+  {
+    "id": 6,
+    "title": "UI/UX Design Principles",
+    "instructor": "Megan Fox",
+    "description": "Learn the fundamentals of user interface and user experience design.",
+    "tags": ["UI", "UX", "Design"],
+    "category": "Web Design",
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  },
+  {
+    "id": 7,
+    "title": "Node.js & Express",
+    "instructor": "Chris Evans",
+    "description": "Build scalable backend applications using Node.js and Express.",
+    "tags": ["Node.js", "Express", "Backend"],
+    "category": "Web Development",
+    "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  },
+  {
+    "id": 8,
+    "title": "Database Management",
+    "instructor": "Linda Brown",
+    "description": "Understand relational and NoSQL databases, queries, and optimization.",
+    "tags": ["Database", "SQL", "NoSQL"],
+    "category": "Programming",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "favorite": false
+  }
+]
