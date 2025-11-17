@@ -1,14 +1,22 @@
 
 # Student Course Management Portal
 
->A modern, responsive web application for managing and browsing student courses. Built with React and Vite, leveraging mock JSON data for demonstration and testing purposes.
+> A modern, responsive web application for managing and browsing student courses. Built with React and Vite, leveraging mock JSON data for demonstration and testing purposes.
+
+## 🌐 Live Demo
+
+[View the deployed app on Vercel](https://coursehub-pi.vercel.app/)
+
+---
 
 ## 🖼️ Screenshot
 
 ![App Screenshot](screenshot/image.png)
 
+---
 
 ## 🚀 Features
+
 - **Clean UI/UX:** Modern, intuitive, and visually appealing interface.
 - **Styling:** CSS
 - **Data:** Mock JSON (`public/mock-courses.json`)
@@ -17,16 +25,16 @@
 
 ## 📦 Project Structure
 
-```
-coursehub/
-├── public/
-│   └── mock-courses.json      # Mock course data
-├── src/
-│   ├── components/           # Reusable UI components
-│   ├── App.jsx               # Main application logic
-│   ├── App.css               # Main styles
-│   └── ...
-├── README.md                 # Project documentation
+
+## 💡 Assumptions & Bonus Features
+
+- Data is loaded from a static JSON file (`mock-courses.json`).
+- Favorites are stored in memory (not persisted).
+- Modal for course details.
+- UI/UX follows modern design principles.
+- Easily extendable for backend/API integration.
+
+---
 └── package.json              # Project metadata & dependencies
 ```
 
