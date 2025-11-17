@@ -7,19 +7,9 @@
 
 ![App Screenshot](screenshot/image.png)
 
-## 🖼️ Screenshot
-
-![App Screenshot](image.png)
-
 
 ## 🚀 Features
 - **Clean UI/UX:** Modern, intuitive, and visually appealing interface.
-
----
-
-## 🛠 Tech Stack
-
-- **Frontend:** React (Vite)
 - **Styling:** CSS
 - **Data:** Mock JSON (`public/mock-courses.json`)
 
