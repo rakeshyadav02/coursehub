@@ -47,12 +47,6 @@ coursehub/
 
 ---
 
-## 🖼 Screenshots
-
-> _Add screenshots or a short screen recording here to showcase the UI and features._
-
----
-
 ## 💡 Assumptions & Bonus Features
 
 - Data is loaded from a static JSON file (`mock-courses.json`).
